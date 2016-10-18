@@ -1,0 +1,17 @@
+[{
+    "name": "VeerapaneniMEANStack",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "S525719",
+    "contributors": [],
+    "dependencies": {}
+},
+{
+  "name": "MEANStack", 
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "mongodb":">=0.9.6-7"
+  }
+}]
